@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zyer459
-- 👀 I’m interested in software & web development 
+- 👀 I’m interested in software, web development & A.I 
 - 🌱 I’m currently learning HTML, CSS & JavaScript
 
 <!---
