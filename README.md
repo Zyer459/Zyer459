@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m A.K.M Asiful Haq (<i>@Zyer459</i>)</h1>
 <h2>👀 I’m interested in software, web development & A.I </h2>
-<h3>📬 mail: **asiful.haq101@gmail.com**</h3>
+<h3>📬 mail: asiful.haq101@gmail.com</h3>
 
 <!---
 Zyer459/Zyer459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
